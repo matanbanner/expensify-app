@@ -1,2 +1,7 @@
 node_modules
 
+src/playground/hoc.js
+src/playground/redux-101.js
+src/playground/redux-expensify.js
+yarn-error.log
+src/tests/.DS_Store
